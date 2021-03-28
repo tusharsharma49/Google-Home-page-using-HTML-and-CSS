@@ -1,0 +1,44 @@
+#google_image{
+  position: absolute;
+  top: 27%;
+  left: 42%;
+}
+google_image:hover{
+  transform: scale(1.2);
+}
+.link{
+position: relative;
+float: right;
+margin-right: 20px;
+font-size: 20px;
+}
+
+.link2{
+margin-left: 5px;
+margin-right: 20px;
+}
+
+div1{
+  position: absolute;
+  top: 50%;
+  left: 42%;
+}
+div3{
+  position: absolute;
+  margin-top:725px;
+  margin-right: 20px;
+  width: 100%;
+}
+.searchbox{
+  height: 30px;
+  width: 300px;
+  border-radius:45px 44px 44px 44px;;
+}
+button{
+  position: relative;
+  margin-left: 20px;
+}
+button:hover{
+  box-shadow: 2px 2px;
+  transform: scale(1.2);
+}
